@@ -1,0 +1,189 @@
+body.index{
+  background-image:url('../images/gymtrainerbg.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.program{
+  background-image:url('../images/programwallpaper.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.exercises{
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-image:url('../images/ExplainedExercises.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.meal{
+  background-image:url('../images/mealplan.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.promise{
+  background-image:url('../images/promise.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;}
+body.about{
+  background-image:url('../images/about.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.lean{
+  background-image:url('../images/lean.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.bulky{
+  background-image:url('../images/bulky.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.calisthenics{
+  background-image:url('../images/calisthenics.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+body.cardio{
+  background-image:url('../images/cardio.jpg');
+  width: 100%;
+  height: 500px;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  z-index:99;
+}
+
+
+div.form{
+text-align:center;
+padding-top:30px;
+padding-bottom:20px;
+font-size:25px;
+
+}
+.top-nav{
+  text-align:center;
+  font-size: 30px;
+}
+h1{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  text-align:center;
+  font-size:60px;
+}
+
+.footer{
+  text-align:center;
+  padding-top: 20px;
+  font-size:20px;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+p {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-size: 40px;
+  text-align:center;
+}
+div.container1 {
+  text-align:center;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+div.container6 {
+  text-align:center;
+  position:relative
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+div.container4 p{
+  margin: 0;
+  top:50%;
+  left:50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+div.leanworkout{
+
+  text-align:center;
+  padding-top:200px;
+}
+div.bulkyworkout{
+
+  text-align:center;
+  padding-top:200px;
+}
+div.calisthenicsworkout{
+
+  text-align:center;
+  padding-top:200px;
+}
+div.cardioworkout{
+
+  text-align:center;
+  padding-top:200px;
+}
+.tabelatraining{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-size: 30px;
+  text-align:center;
+  padding-left:100px;
+  margin-left:auto;
+  margin-right:auto;
+  width:80%;
+}
+.formulartraining{
+  color:#0b0c0c;
+ font-size: 30px;
+ text-align:center;
+ margin-top:20px;
+ margin-bottom:20px;
+}
+.target{
+  margin-left:auto;
+  margin-right:auto;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-size: 30px;
+  text-align:center;
+}
